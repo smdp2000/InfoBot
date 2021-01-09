@@ -1,4 +1,4 @@
-#InfoBot<br>
+# InfoBot<br>
 ### Built a Seq2Seq Encoder Decoder Chatbot with attention layer from scratch to answer queries regarding mony, movies, ai etc. Though I have used small dataset for training. Will be #adding cornell data to it.
 <br>
 
